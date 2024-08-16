@@ -1,4 +1,4 @@
-# SoftUni-Fundamentals-2024-05 🏫
+# SoftUni-Fundamentals-2024-09 🏫
 In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
 
 Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀
