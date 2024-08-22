@@ -10,7 +10,7 @@ Online judge system - **https://judge.softuni.org/** 📊
  
 ## Table of Contents: 
 
- 
+  
 ## Theory Тests:
 
 
