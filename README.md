@@ -18,7 +18,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 
 
 ## Additional Resources:
-
+ 
 ➡ [**Course page - Programming Fundamentals with Python - September 2024**](https://softuni.bg/trainings/4693/programming-fundamentals-with-python-september-2024)
 
 ➡ [**Official Python documentation**](https://docs.python.org/3/)
