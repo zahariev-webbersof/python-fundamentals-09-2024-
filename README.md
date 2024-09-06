@@ -14,7 +14,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ## Theory Тests:
 
 
-## Practical Tasks: 
+## Practical Tasks:  
 
 
 ## Additional Resources: 
