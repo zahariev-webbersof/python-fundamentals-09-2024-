@@ -9,13 +9,13 @@ Online judge system - **https://judge.softuni.org/** 📊
 
  
 ## Table of Contents: 
-
+➡ [**Basic Syntax, Conditional Statements and Loops**]() 
   
 ## Theory Тests:
-
+➡ [**Basic Syntax - TEST**]()
 
 ## Practical Tasks:  
-
+➡ [**Pattern Drawing**]()
 
 ## Additional Resources: 
  
