@@ -15,7 +15,7 @@ Online judge system - **https://judge.softuni.org/** 📊
 ➡ [**Basic Syntax - TEST**]()
 
 ## Practical Tasks:  
-➡ [**Pattern Drawing**]()
+➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
 
 ## Additional Resources: 
  
