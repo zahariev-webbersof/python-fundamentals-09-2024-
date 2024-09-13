@@ -16,7 +16,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
-
+ 
 ## Additional Resources: 
  
 ➡ [**Course page - Programming Fundamentals with Python - September 2024**](https://softuni.bg/trainings/4693/programming-fundamentals-with-python-september-2024)
