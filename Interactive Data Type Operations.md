@@ -1,5 +1,7 @@
 ### 🎓 Interactive Data Type Operations System
 
+![rsz_python_task_representation](https://github.com/user-attachments/assets/2052bb82-ad94-4f3d-ab32-03135528d0db)
+
 Welcome to your interactive Python project! In this exercise, you will create a dynamic script where the user gets to choose a data type and perform related operations. The goal is to reinforce your understanding of Python data types, including strings, numbers, booleans, lists, tuples, and dictionaries, by implementing different actions based on the user's input.
 
 ### 🌟 Project Overview
