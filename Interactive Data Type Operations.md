@@ -1,4 +1,4 @@
-### 🎓 Python Student Project: Interactive Data Type Operations
+### 🎓 Interactive Data Type Operations System
 
 Welcome to your interactive Python project! In this exercise, you will create a dynamic script where the user gets to choose a data type and perform related operations. The goal is to reinforce your understanding of Python data types, including strings, numbers, booleans, lists, tuples, and dictionaries, by implementing different actions based on the user's input.
 
