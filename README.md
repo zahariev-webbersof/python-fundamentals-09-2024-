@@ -27,6 +27,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
 
 ➡ [**Interactive Data Type Operations System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Interactive%20Data%20Type%20Operations.md)
+
+➡ [**💳 Bank Account Management System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/💳%20Bank%20Account%20Management%20System.md)
  
 ## Additional Resources: 
  
