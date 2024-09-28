@@ -15,7 +15,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**List basic**]()  
  
-    
+     
 ## Theory Тests:
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Basic%20Syntax%20-%20TEST.md)
 
