@@ -1,32 +1,29 @@
-# 🚗 RentACar Platform Project
+# 🚗 RentACar Platform Project (Functions-Based)
 
 ## Project Overview
 
-The **RentACar Platform** is a collaborative Python-based project that simulates a car rental management system. The system will allow users to rent, return, and manage cars. Students will work in groups, where each student will take on a specific role, contributing to different parts of the project.
+The **RentACar Platform** is a collaborative Python-based project where students will build a car rental management system using only **functions**, **lists**, and **dictionaries**—no object-oriented programming or classes are required. This project simulates the process of renting, returning, and managing a fleet of cars.
 
 ### Purpose
 
 The purpose of this project is to:
-- Gain hands-on experience with Python functions, classes, and file handling.
-- Develop teamwork and project management skills.
-- Understand how different roles work together to build a complete application.
+- Strengthen your understanding of Python **functions**, **dictionaries**, **lists**, and **control flow**.
+- Develop collaboration and project management skills.
+- Learn how to structure and integrate Python code for a small-scale system.
 
 ---
 
 ## 🚀 Project Requirements
 
 1. **Python Version**: Python 3.8 or above
-2. **Libraries**: 
-   - `datetime` for managing dates.
-   - `json` for storing and managing car and user data.
-   - `os` for file handling and directory management.
+2. **Libraries**: None required, built-in functions only
 3. **Version Control**: Use GitHub for collaboration and version control.
 
 ### Key Functionalities
 
 - **Admin Panel**: Add, remove, or modify cars in the system.
 - **User Panel**: Rent and return cars.
-- **Payment System**: Simple payment calculation based on rental time.
+- **Payment System**: Calculate total rental cost based on time rented.
 
 ---
 
@@ -34,68 +31,101 @@ The purpose of this project is to:
 
 ### 1. **Back-End Developer (Student 1)**
 
-**Role Overview**: The Back-End Developer is responsible for building the core functionality of the platform. They will manage the car rental system's logic, data storage, and system functions like renting and returning cars.
+**Role Overview**: The Back-End Developer will manage the logic for renting, returning, and displaying cars. They will store data using Python's **dictionaries** and **lists** to represent cars and users.
 
 **Key Responsibilities**:
-- Define the **Car** and **User** classes using object-oriented programming.
-- Create methods to **rent a car**, **return a car**, and **display available cars**.
-- Implement **file handling** to save and retrieve user and car data (using JSON or CSV).
-- Develop a **simple payment calculation** system based on rental duration.
+- Define a **car list** and a **rental status dictionary** to track available cars.
+- Create functions for **renting a car**, **returning a car**, and **viewing available cars**.
+- Manage the **rental duration** and **cost calculations**.
 
 **Tasks**:
-- Create the `car.py` module to define the Car class, including attributes like `car_id`, `brand`, `model`, `rental_price`, and `availability`.
-- Implement rental logic: when a user rents a car, the system should update the availability status.
-- Use file handling (JSON) to save and load the list of available cars.
+- Create a **list of dictionaries** for storing cars, with each car having `id`, `brand`, `model`, `rental_price`, and `availability`.
+- Write the function `rent_car()` which takes the user's input (car id) and updates its availability status.
+- Create a function `return_car()` that returns the car and calculates the total rental cost.
+- Use dictionaries to store car details and rental status.
 
-**Advice**: Focus on clear logic and keep functions modular. Work closely with the front-end developer to ensure seamless integration.
+**Advice**: Keep each function simple and modular. Communicate with the front-end developer to ensure smooth data flow between logic and interface.
+
+Example functions for this role:
+
+```python
+def initialize_cars():
+    cars = [
+        {"id": 1, "brand": "Toyota", "model": "Camry", "rental_price": 40, "available": True},
+        {"id": 2, "brand": "Honda", "model": "Civic", "rental_price": 35, "available": True},
+        {"id": 3, "brand": "Ford", "model": "Mustang", "rental_price": 55, "available": True},
+    ]
+    return cars
+
+def rent_car(cars, car_id):
+    for car in cars:
+        if car["id"] == car_id and car["available"]:
+            car["available"] = False
+            return f"You have rented the {car['brand']} {car['model']}."
+    return "Car is unavailable or invalid car ID."
+```
 
 ---
 
 ### 2. **Front-End Developer (Student 2)**
 
-**Role Overview**: The Front-End Developer is responsible for creating the user interface. This includes taking inputs from the user, displaying available cars, and showing rental receipts and confirmations.
+**Role Overview**: The Front-End Developer is responsible for creating a **text-based user interface**. They will handle user input, display car information, and ensure the program interacts with the back-end functions.
 
 **Key Responsibilities**:
-- Create an intuitive **console-based interface**.
-- Display available cars and rental options to the user.
-- Integrate with the Back-End Developer’s methods to allow users to rent and return cars.
-- Ensure that the interface provides **clear error handling** for invalid inputs.
+- Build a **menu system** where users can view cars, rent cars, or return cars.
+- Capture user input and pass it to the appropriate functions.
+- Display appropriate messages based on the back-end responses.
 
 **Tasks**:
-- Build a **menu system** that lets users select options like "View Cars", "Rent a Car", "Return a Car", and "Exit".
-- Implement user prompts and display feedback from the back-end methods (e.g., successful rental or return).
-- Handle **exceptions** for invalid inputs (e.g., user tries to rent an unavailable car).
+- Create a **main menu** function that displays options like "View Cars", "Rent a Car", "Return a Car", and "Exit".
+- Implement input validation to ensure the user enters valid options and car IDs.
+- Display car availability and rental details by calling functions from the back-end.
 
-**Advice**: Keep the interface simple and clean. Communicate regularly with the back-end developer to ensure data flows smoothly between the UI and the business logic.
+**Advice**: Ensure the interface is intuitive and easy to follow. Work closely with the Back-End Developer to ensure functions are properly connected.
+
+Example code for the front-end:
+
+```python
+def display_cars(cars):
+    print("\nAvailable Cars:")
+    for car in cars:
+        status = "Available" if car["available"] else "Rented"
+        print(f"ID: {car['id']} - {car['brand']} {car['model']} - ${car['rental_price']}/day - {status}")
+
+def main_menu():
+    print("Welcome to RentACar!")
+    print("1. View Cars")
+    print("2. Rent a Car")
+    print("3. Return a Car")
+    print("4. Exit")
+    return input("Please choose an option (1-4): ")
+```
 
 ---
 
 ### 3. **Project Manager & Tester (Student 3)**
 
-**Role Overview**: The Project Manager coordinates the project timeline and ensures the code is properly tested before final submission. This role ensures all parts work together correctly and meet the project requirements.
+**Role Overview**: The Project Manager ensures that tasks are completed on time and the project is tested thoroughly. They will also write the project's documentation, outlining the setup, usage, and functionality of the system.
 
 **Key Responsibilities**:
-- Create a **timeline** and ensure tasks are delivered on time.
-- Test the functionality of the system by creating **unit tests** and manual tests.
-- Ensure that the system meets the functional requirements for renting and returning cars.
-- Write documentation on how to set up, run, and use the application.
+- Test the functions by running **manual tests** and ensure everything works as expected.
+- **Coordinate** the integration between front-end and back-end components.
+- Write the **README.md** file with a description of the project, how to install and run it, and how each function works.
 
 **Tasks**:
-- Write **unit tests** for the car rental logic, ensuring that each feature (rent, return, etc.) works as expected.
-- Ensure proper **integration** between front-end and back-end components.
-- Document how to run the project and include installation steps in the **README.md**.
+- Write simple **test cases** to ensure that renting and returning cars work as expected.
+- Verify that the user interface correctly interacts with the backend logic.
+- Document the project setup, usage, and functionality in the **README.md** file.
 
-**Advice**: Pay attention to edge cases (e.g., what happens if all cars are rented?). Make sure to thoroughly test the system before marking it as complete.
+**Advice**: Ensure you test all edge cases, such as attempting to rent a car that is already rented. Write clear documentation for anyone who wants to understand how the system works.
 
 ---
 
 ## 💡 Recommendations
 
-1. **Communication**: Constant communication between all team members is critical. Ensure that each role interacts properly with the others. For example, the Front-End Developer should work closely with the Back-End Developer to make sure the user interface interacts properly with the car rental logic.
-
-2. **Version Control**: Make frequent commits to GitHub with meaningful commit messages. Use **branches** for different features and open **pull requests** when a feature is complete. The Project Manager will review the pull requests before merging them into the main branch.
-
-3. **Code Documentation**: Each member must document their code clearly. For example, include docstrings for all methods and explain the purpose of each function.
+1. **Communication**: Constant communication is key. Ensure the Front-End Developer and Back-End Developer work closely to integrate the functions smoothly.
+2. **Version Control**: Use **GitHub** for version control. Each developer should work on their own branch and submit **pull requests** for review.
+3. **Documentation**: Document all functions clearly. This will make testing and debugging easier.
 
 ---
 
@@ -103,36 +133,31 @@ The purpose of this project is to:
 
 ```
 ├── rentacar/
-│   ├── car.py              # Car class and logic
-│   ├── user.py             # User class and management
-│   ├── rental_system.py    # Backend logic for renting/returning cars
-│   ├── interface.py        # Front-end interface
-│   ├── data/
-│       ├── cars.json       # Data store for cars
-│       ├── users.json      # Data store for users
+│   ├── backend.py         # Backend functions (rent_car, return_car, etc.)
+│   ├── frontend.py        # Frontend functions (display_cars, main_menu, etc.)
+│   ├── data/              # JSON or text files for storing cars and user data
 ├── tests/
-│   ├── test_rental_system.py # Unit tests for backend logic
-├── README.md               # Project documentation
+│   ├── test_backend.py    # Tests for backend functions
+│   ├── test_frontend.py   # Tests for frontend functions
+├── README.md              # Project documentation
 ```
 
 ---
 
 ## 🛠️ Tools and Technologies
 
-1. **Python**: Core programming language for building the system.
-2. **Git/GitHub**: For version control and collaboration.
-3. **JSON**: For storing car and user data.
-4. **Unit Testing**: Using Python’s `unittest` library for testing.
+1. **Python**: Core programming language.
+2. **Git/GitHub**: Version control for collaboration.
+3. **Manual Testing**: Ensure functionality through manual tests and basic unit tests.
 
 ---
 
 ## 🎯 Success Criteria
 
-The project will be deemed successful if it meets the following criteria:
-1. The system can successfully **add**, **rent**, and **return cars**.
-2. Users can view available cars and rent cars using a **user-friendly interface**.
-3. Data is stored and retrieved using **file handling**.
-4. The system is **properly tested** and has unit tests that cover the main functionalities.
+The project is considered successful if:
+1. Users can **view cars**, **rent a car**, and **return a car** successfully.
+2. Data is stored and manipulated using **functions**, **dictionaries**, and **lists**.
+3. The system is tested and documented, and the team works collaboratively on GitHub.
 
 ---
 
@@ -144,19 +169,14 @@ The project will be deemed successful if it meets the following criteria:
    cd rentacar-platform
    ```
 
-2. **Install dependencies** (if any):
+2. **Run the platform**:
    ```bash
-   pip install -r requirements.txt
+   python frontend.py
    ```
 
-3. **Run the platform**:
+3. **Run manual tests**:
    ```bash
-   python interface.py
-   ```
-
-4. **Run unit tests**:
-   ```bash
-   python -m unittest discover -s tests
+   python tests/test_backend.py
    ```
 
 ---
@@ -167,16 +187,15 @@ The project will be deemed successful if it meets the following criteria:
 |-----------------------|------------------|---------------------|
 | Backend Development    | Week 1           | Back-End Developer   |
 | Frontend Development   | Week 2           | Front-End Developer  |
-| Testing & Integration  | Week 3           | Project Manager      |
+| Testing & Documentation| Week 3           | Project Manager      |
 | Final Review & Submit  | End of Week 3    | All                 |
 
 ---
 
-### 👏 Conclusion
+### 🎉 Conclusion
 
-This project will help you understand how to build a Python-based system from the ground up, working collaboratively with your peers. Each of you will be responsible for crucial components of the system, mimicking real-world project environments where team members specialize in different areas.
+This project will help you master how to create a Python-based application using only functions, lists, and dictionaries. Each team member has a crucial role in developing different components, ensuring you all learn how to contribute to a larger project.
 
 Good luck! 🚀
 
 ---
-
