@@ -13,7 +13,9 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
   
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
 
-➡ [**List basic**]()  
+➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)
+
+➡ [**Functions**]()
  
       
 ## Theory Тests:
@@ -31,6 +33,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Interactive Data Type Operations System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Interactive%20Data%20Type%20Operations.md)
 
 ➡ [**Bank Account Management System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Bank%20Account%20Management%20System.md)
+
+➡ [**Rent a Car project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md)
  
 ## Additional Resources: 
  
