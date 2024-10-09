@@ -37,6 +37,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Bank Account Management System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Bank%20Account%20Management%20System.md)
 
 ➡ [**Rent a Car project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md)
+
+➡ [**Java Script for Python Developers**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Java%20Script%20for%20Python%20Developers.md)
  
 ## Additional Resources: 
  
