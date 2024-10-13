@@ -267,7 +267,7 @@ print(result, final_result)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> C: 8 9
+#### Correct Answer -> C: 7 8
 
 </p>
 </details>
