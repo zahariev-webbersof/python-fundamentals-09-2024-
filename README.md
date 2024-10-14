@@ -17,7 +17,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/functions)
 
-➡ [**List advanced**]()
+➡ [**List advanced**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_advanced)
  
       
 ## Theory Тests: 
