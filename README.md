@@ -7,18 +7,20 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ![2048_d5964e5351708047190e99b52500b47a](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/119a51ec-0428-4da7-801f-462140fb9cc7)
 
-  
-## Table of Contents:  
+   
+## Table of Contents:    
 ➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
   
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
 
 ➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)
 
-➡ [**Functions**]()
+➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/functions)
+
+➡ [**List advanced**]()
  
       
-## Theory Тests:
+## Theory Тests: 
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Basic%20Syntax%20-%20TEST.md)
 
 ➡ [**Data Types and Variables - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Data%20types%20-%20TEST.md)
@@ -26,6 +28,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**List Basic - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/List%20basic%20-%20TEST.md)
 
 ➡ [**Functions - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/TEST%20-%20Functions.md)
+
+➡ [**List Advanced TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/List%20advanced%20-%20TEST.md)
 
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
@@ -35,6 +39,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Bank Account Management System**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Bank%20Account%20Management%20System.md)
 
 ➡ [**Rent a Car project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md)
+
+➡ [**Java Script for Python Developers**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Java%20Script%20for%20Python%20Developers.md)
  
 ## Additional Resources: 
  
