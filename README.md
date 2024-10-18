@@ -22,7 +22,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
       
 ## Theory Тests: 
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Basic%20Syntax%20-%20TEST.md)
-
+ 
 ➡ [**Data Types and Variables - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Data%20types%20-%20TEST.md)
 
 ➡ [**List Basic - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/List%20basic%20-%20TEST.md)
