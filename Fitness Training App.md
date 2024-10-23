@@ -1,5 +1,8 @@
 # 🏋️‍♂️ Fitness Training App 
 
+![Training app Logo](https://preview.redd.it/oi7fw0q55xx11.png?auto=webp&s=ecdd68fc7e0c4587473293530c4ec4414ea86b2f)
+
+
 ## Project Overview
 
 The **Fitness Training App** is a Python-based project designed for individual students to apply **object-oriented programming (OOP)** concepts. The student will develop a fitness app that allows users to create and manage workout routines, track progress, and monitor their personal fitness journey.
