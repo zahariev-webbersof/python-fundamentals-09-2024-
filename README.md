@@ -47,6 +47,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Java Script for Python Developers**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Java%20Script%20for%20Python%20Developers.md)
 
 ➡ [**AI Chat with Groq**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/AI%20chat%20with%20Grog.md)
+
+➡ [**Training app project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Fitness%20Training%20App.md)
  
 ## Additional Resources: 
  
