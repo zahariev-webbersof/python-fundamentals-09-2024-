@@ -45,6 +45,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Rent a Car project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md)
 
 ➡ [**Java Script for Python Developers**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Java%20Script%20for%20Python%20Developers.md)
+
+➡ [**AI Chat with Groq**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/AI%20chat%20with%20Grog.md)
  
 ## Additional Resources: 
  
