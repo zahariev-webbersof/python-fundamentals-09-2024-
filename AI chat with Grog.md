@@ -64,7 +64,7 @@ while True:
 - **Different AI Models**: Provide an option to select different models from Groq.
 
 ### Additional Resources
-- [Groq API Documentation](https://docs.groq.com/)
+- [Groq API Documentation]([https://docs.groq.com/](https://console.groq.com/docs/quickstart))
 - [Python Documentation](https://docs.python.org/3/)
 
 ### Points Breakdown
