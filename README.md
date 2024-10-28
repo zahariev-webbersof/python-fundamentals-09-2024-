@@ -1,7 +1,7 @@
 # SoftUni-Fundamentals-2024-09 🏫
 In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
 
-Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀
+Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀 
 
 Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni.org)** 📊   
  
