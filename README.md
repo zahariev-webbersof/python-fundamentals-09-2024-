@@ -1,7 +1,7 @@
 # SoftUni-Fundamentals-2024-09 🏫
 In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
 
-Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀
+Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀 
 
 Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni.org)** 📊   
  
@@ -13,11 +13,15 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
   
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
 
-➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)
+➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)  
 
 ➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/functions)
 
 ➡ [**List advanced**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_advanced)
+
+➡ [**Exam Preparation part 1**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/exam_preparation_1)
+
+➡ [**Objects and Classes**]()
  
       
 ## Theory Тests: 
@@ -33,6 +37,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**OOP TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/OOP%20-%20Test.md)
 
+➡ [Dictionaries TEST](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Dictionaries%20-%20TEST.md)
+
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
 
@@ -43,6 +49,12 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Rent a Car project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/RentACar%20Platform%20Project.md)
 
 ➡ [**Java Script for Python Developers**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Java%20Script%20for%20Python%20Developers.md)
+
+➡ [**AI Chat with Groq**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/AI%20chat%20with%20Grog.md)
+
+➡ [**Training app project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Fitness%20Training%20App.md)
+
+➡ [**Flashcard Study App**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Flashcard%20Study%20App.md)
  
 ## Additional Resources: 
  
