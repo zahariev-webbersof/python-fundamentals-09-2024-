@@ -53,6 +53,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**AI Chat with Groq**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/AI%20chat%20with%20Grog.md)
 
 ➡ [**Training app project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Fitness%20Training%20App.md)
+
+➡ [Flashcard Study App](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Flashcard%20Study%20App.md)
  
 ## Additional Resources: 
  
