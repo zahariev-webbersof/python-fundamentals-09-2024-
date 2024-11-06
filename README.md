@@ -39,6 +39,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Dictionaries TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Dictionaries%20-%20TEST.md)
 
+➡ [**Text Processing TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Text%20Processing%20-%20TEST.md)
+
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
 
