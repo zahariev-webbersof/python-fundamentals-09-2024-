@@ -23,7 +23,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Objects and Classes**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/oop)
 
-➡ **[Text Processing]**(https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/text_processing)
+➡ [**Text Processing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/text_processing)
  
       
 ## Theory Тests: 
@@ -43,7 +43,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Text Processing TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Text%20Processing%20-%20TEST.md)
 
-➡ **[Regex TEST]**(https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/regex%20-%20TEST.md)
+➡ [**Regex TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/regex%20-%20TEST.md)
 
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
