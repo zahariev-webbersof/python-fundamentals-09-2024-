@@ -6,22 +6,22 @@ Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahari
 Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni.org)** 📊   
  
 ![2048_d5964e5351708047190e99b52500b47a](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/119a51ec-0428-4da7-801f-462140fb9cc7)
- 
     
-## Table of Contents:     
+        
+## Table of Contents:       
 ➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
   
 ➡ [**Data Types and Variables**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/basic_syntax)
 
-➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)  
+➡ [**List basic**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_basic)   
 
-➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/functions)
+➡ [**Functions**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/functions) 
 
 ➡ [**List advanced**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/list_advanced)
 
 ➡ [**Exam Preparation part 1**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/exam_preparation_1)
 
-➡ [**Objects and Classes**]()
+➡ [**Objects and Classes**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/oop)
  
       
 ## Theory Тests: 
@@ -37,7 +37,11 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**OOP TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/OOP%20-%20Test.md)
 
-➡ [Dictionaries TEST](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Dictionaries%20-%20TEST.md)
+➡ [**Dictionaries TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Dictionaries%20-%20TEST.md)
+
+➡ [**Text Processing TEST**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Text%20Processing%20-%20TEST.md)
+
+➡ **[Regex TEST]**(https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/regex%20-%20TEST.md)
 
 ## Practical Tasks:  
 ➡ [**Pattern Drawing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/blob/main/Pattern%20Drawing.md)
