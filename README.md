@@ -24,6 +24,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Objects and Classes**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/oop)
 
 ➡ [**Text Processing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/text_processing)
+
+➡ [**Regex**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/regex)
  
       
 ## Theory Тests: 
