@@ -26,6 +26,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Text Processing**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/text_processing)
 
 ➡ [**Regex**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/regex)
+
+➡ [**Exam Preparation part 2**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/exam_preparation_2)
  
       
 ## Theory Тests: 
