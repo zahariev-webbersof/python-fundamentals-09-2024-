@@ -29,7 +29,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Exam Preparation part 2**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/exam_preparation_2)
 
-➡ [**Django project**]()
+➡ [**Django project**](https://github.com/zahariev-webbersof/python-fundamentals-09-2024-/tree/main/djangoProject1)
 
       
 ## Theory Тests: 
